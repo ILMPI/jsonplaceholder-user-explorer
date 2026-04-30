@@ -13,7 +13,7 @@ Minimal web application which is showing list of users from [JSONPlaceholder](ht
 
 ## 📸 Demo
 
-[Live demo](https://cautious-tribble-xi.vercel.app/)  
+[Live demo](https://jsonplaceholder-user-explorer-xi.vercel.app/)
 
 ## 🚀 Tech Stack
 
@@ -33,4 +33,5 @@ cd cautious-tribble
 npm install
 npm run dev
 ```
+
 Then open http://localhost:3000
